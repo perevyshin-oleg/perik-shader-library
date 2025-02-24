@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="60c24dca-a614-45bd-a934-93c4b9354964" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Learning/New Material.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Learning/New Material.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Learning/NewUnlitShader.shader" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Learning/NewUnlitShader.shader" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.perik-shader-library/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.perik-shader-library/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +88,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1740413819918</updated>
-      <workItem from="1740413824024" duration="6294000" />
+      <workItem from="1740413824024" duration="9402000" />
     </task>
     <servers />
   </component>
