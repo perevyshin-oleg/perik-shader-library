@@ -1,4 +1,4 @@
-Shader "Unlit/Silhouette"
+Shader "PerikShaders/Silhouette"
 {
     Properties
     {

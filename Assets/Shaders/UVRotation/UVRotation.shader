@@ -1,4 +1,4 @@
-Shader "Unlit/UVRotation"
+Shader "PerikShaders/UVRotation"
 {
     Properties
     {
