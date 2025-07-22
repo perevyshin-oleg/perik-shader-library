@@ -27,7 +27,7 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _Dissolve: 0.419
+    - _Dissolve: 0.488
     - _QueueControl: 0
     m_Colors: []
   m_BuildTextureStacks: []

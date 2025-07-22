@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: texturing-coloring-material
-  m_Shader: {fileID: 4800000, guid: 821a9f69914748942a7f4bc817f472b5, type: 3}
+  m_Name: M_Grayscale
+  m_Shader: {fileID: 4800000, guid: 0435a33696a3dbf4c82c64a815c428cb, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -24,7 +24,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseTex:
-        m_Texture: {fileID: 10309, guid: 0000000000000000f000000000000000, type: 0}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BaseTex_ST:
@@ -91,7 +91,9 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.1490196, g: 0.3072936, b: 0.99215686, a: 1}
+    - _BackgroundColor: {r: 0, g: 0, b: 0, a: 1}
+    - _BaseColor: {r: 0.99215686, g: 0.22028409, b: 0.1490196, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _ForegroundColor: {r: 1, g: 0.44982043, b: 0.1566037, a: 1}
   m_BuildTextureStacks: []
